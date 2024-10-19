@@ -6,12 +6,12 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t�
 
 - `data/`: Contiene los archivos de datos.
 - `notebooks/`: Contiene los notebooks de Jupyter para el análisis.
-- `src/`: Contiene el código fuente del proyecto.
+- `src/`: Contiene el código fuente del proyecto (No disponible aun)
 - `README.md`: Este archivo.
 
 ## Instrucciones de Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu_usuario/retail-sales-analysis.git`
+1. Clona el repositorio: `git clone https://github.com/mavirc/ratail-sales-analysis.git`
 2. Instala las dependencias: `pip install -r requirements.txt`
 
 ## Uso
